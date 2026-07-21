@@ -60,5 +60,5 @@ docs/
 - AI Object Detection
   ## Robot
 
-![Robot](images/robot.jpg)
+![Robot](robot.jpg)
 
