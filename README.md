@@ -58,4 +58,7 @@ docs/
 - GPS
 - Thermal Sensor
 - AI Object Detection
+  ## Robot
+
+![Robot](images/robot.jpg)
 
